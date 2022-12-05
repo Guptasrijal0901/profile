@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.backimg{
+    width: 100%;
+    height: 100%;
+    background-image: url(backimg.jpeg);
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.profile{
+    width: 100%;
+    
+}   
+img{
+    border-radius: 50%; 
+}
+.profilefont{
+    color: black;
+}
